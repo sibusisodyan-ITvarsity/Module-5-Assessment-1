@@ -36,8 +36,8 @@ h1{
 
 #neptune-orbit{
     position: absolute;
-    width: 1204px;
-    height: 1204px;
+    width: 1170px;
+    height: 1170px;
     bottom: -512px;
     left: 50%;
     margin-left: -602px;
@@ -48,7 +48,7 @@ h1{
 }
 
 #neptune-label{
-    bottom: 692px;
+    bottom: 660px;
 }
 
 /*============================================URANUS=====================================================*/
@@ -63,8 +63,8 @@ h1{
 
 #uranus-orbit{
     position: absolute;
-    width: 1062px;
-    height: 1062px;
+    width: 1020px;
+    height: 1020px;
     bottom: -441px;
     left: 50%;
     margin-left: -531px;
@@ -75,7 +75,7 @@ h1{
 }
 
 #uranus-label{
-    bottom: 620px;
+    bottom: 580px;
 }
 
 /*============================================SATURN=====================================================*/
@@ -89,8 +89,8 @@ h1{
 
 #saturn-orbit{
     position: absolute;
-    width: 876px;
-    height: 876px;
+    width: 850px;
+    height: 850px;
     bottom: -348px;
     left: 50%;
     margin-left: -438px;
@@ -101,7 +101,7 @@ h1{
 }
 
 #saturn-label{
-    bottom: 527px;
+    bottom: 500px;
 }
 
 
@@ -278,6 +278,21 @@ h1{
         -webkit-transform:rotate(360deg);
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
